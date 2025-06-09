@@ -2,14 +2,14 @@
   "public": {
     "default": {
       "commerce-core-endpoint": "https://aemshop.net/graphql",
-      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/Fwus6kdpvYCmeEdcCX7PZg/graphql",
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/nUdpL3zpUS6mYhwEmdBfk/graphql",
       "headers": {
         "all": {
           "Store": "default"
         },
         "cs": {
-          "ac-channel-id": "9ced53d7-35a6-40c5-830e-8288c00985ad",
-          "ac-environment-id": "Fwus6kdpvYCmeEdcCX7PZg",
+          "ac-channel-id": "b085f904-7a0c-46af-9666-6bc81de42b1d",
+          "ac-environment-id": "nUdpL3zpUS6mYhwEmdBfk",
           "ac-price-book-id": "west_coast_inc",
           "ac-scope-locale": "en-US"
         }
